@@ -35,3 +35,9 @@ For this lab, answer all questions in a 'sql' file, commenting before the number
 
 /* QUESTION 1: */
 ANSWER QUERY
+
+
+## Helpful
+
+If you get problems importing Applestore.csv into MySQL Workbench, use Applestore2.csv instead.
+
